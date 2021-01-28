@@ -12,3 +12,8 @@ github_username:  moscbrand
 # Build settings
 exclude: [ 'README.md']
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
